@@ -1,4 +1,4 @@
-app = "GaryBricksBlog-94f9"
+app = "garybricks-blog"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
